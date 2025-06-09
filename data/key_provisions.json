@@ -1,0 +1,308 @@
+{
+  "page_title": "Key Provisions of Section 899",
+  "intro_paragraph": "This section delves into the core components of Section 899, outlining its legislative purpose, scope, key definitions, tax implications, compliance requirements, special mechanics, and decision-making tools.",
+  "sections": [
+    {
+      "id": "overview",
+      "title": "2.1 Overview of Section 899",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "<strong>Legislative Purpose:</strong> Section 899 is a newly proposed \"retaliatory\" code section that installs 3 levers of taxation on the U.S. side of the system to tax marginal flows and base eroding deductions that cross the U.S. border meant to target countries that have imposed 'unfair' taxes that harm U.S economic interests."
+        },
+        {
+          "type": "paragraph",
+          "text": "<strong>Effective Dates:</strong> Section 899's effective dates are designed with a structured phase-in to capture both non-withholding and withholding taxes, depending on when the legislation is enacted and the relevant country is designated as discriminatory by Treasury."
+        },
+        {
+          "type": "table",
+          "headers": ["Event", "Date Estimate", "Description"],
+          "rows": [
+            [
+              "Senate Passage and Enactment",
+              "July 2025 (assumed)",
+              "Date the legislation is passed by Congress and signed into law by the President."
+            ],
+            [
+              "90-Day Enactment Buffer Ends",
+              "October 2025",
+              "The earliest point at which tax years can begin to be subject to Section 899 surcharges."
+            ],
+            [
+              "First Taxable Year Subject (Non-Withholding Taxes)",
+              "January 1, 2026",
+              "For taxpayers with a December 31 year-end, the 2026 tax year is the first full year subject to the § 899 non-withholding surcharges (e.g., BEAT, 1120-F)."
+            ],
+            [
+              "First Calendar Year Subject (Withholding Taxes)",
+              "January 1, 2026",
+              "Withholding surcharges on dividends, royalties, interest, and FIRPTA payments will apply starting with the 2026 calendar year."
+            ],
+            [
+              "Surcharge Ramp-Up Begins",
+              "2026",
+              "+5 percentage point surcharge applies in the first year; +5 pp added each subsequent year, capped at +20 percentage points."
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Thus, assuming prompt enactment in mid-2025, taxpayers with a December 31 year-end will see Section 899 surcharges begin with the 2026 tax and calendar years. Fiscal year-end taxpayers could face slightly different timing depending on when their fiscal year begins relative to the 90-day post-enactment buffer."
+        },
+        {
+          "type": "paragraph",
+          "text": "<strong>Scope of Application:</strong> Primarily affects U.S. taxpayers dealing with entities in or deriving income from countries designated as having 'unfair foreign taxes,' and foreign persons subject to these U.S. tax adjustments."
+        }
+      ]
+    },
+    {
+      "id": "definitions",
+      "title": "2.2 Key Definitions",
+      "content": [
+        {
+          "type": "definition_item",
+          "term": "Applicable Person",
+          "definition": "Any non-U.S. individual, foreign corporation, government, private foundation, trust, partnership, branch, or other entity that is resident in—or more than 50% owned or controlled (vote or value) by residents of—a country designated as 'discriminatory' under §899(b)(1)."
+        },
+        {
+          "type": "definition_item",
+          "term": "Discriminatory Foreign Country",
+          "definition": "A jurisdiction that imposes one or more 'unfair foreign taxes' and is listed by Treasury in quarterly guidance under §899(e)(2). Examples include those that have enacted per se unfair taxes (DSTs, UTPRs, DPTs) without cost-recovery or that apply extraterritorially."
+        },
+        {
+          "type": "definition_item",
+          "term": "Unfair Foreign Tax",
+          "definition": "As defined in §899(c)(1), any of:",
+          "points": [
+            "An OECD Pillar 2 Undertaxed Profits Rule (UTPR)",
+            "A Digital Services Tax (DST) on nonresident tech-company revenues",
+            "A Diverted Profits Tax (DPT) targeting profit shifting",
+            "Any extraterritorial or discriminatory tax (e.g., gross basis, non-net-income, or special-exemption taxes) that falls within Treasury's delegated authority"
+          ]
+        },
+        {
+          "type": "definition_item",
+          "term": "Applicable Date",
+          "definition": "The first day of the first calendar year after the latest of (i) 90 days post-enactment of §899, (ii) 180 days after the unfair foreign tax's enactment, or (iii) when that tax first applies. Surcharges are computed relative to this date."
+        }
+      ]
+    },
+    {
+      "id": "tax-implications",
+      "title": "2.3 Tax Implications",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Section 899 can result in:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "<strong>Increased Tax Rates:</strong> Application of higher effective U.S. tax rates on certain income associated with unfair foreign taxes (e.g., via denial of deductions, imposition of surcharges, or modifications to existing regimes like BEAT).",
+            "<strong>Withholding Taxes:</strong> Potential for new or increased withholding obligations on payments to applicable persons in discriminatory foreign countries."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "<strong>Calculation Methodology:</strong> Involves determining a base amount of income or payment affected by the unfair foreign tax, applying the specified Section 899 rate adjustment (which may ramp up over time), and considering special rules or exceptions."
+        }
+      ]
+    },
+    {
+      "id": "compliance",
+      "title": "2.4 Compliance Requirements",
+      "content": [
+        {
+          "type": "list",
+          "items": [
+            "<strong>Documentation:</strong> Taxpayers may need to maintain specific documentation to support their Section 899 positions.",
+            "<strong>Reporting Obligations:</strong> Disclosure on tax returns or specific forms may be required.",
+            "<strong>Filing Deadlines:</strong> Standard tax filing deadlines apply, with potential for specific schedules related to Section 899.",
+            "<strong>Penalties for Non-Compliance:</strong> Standard tax penalties may apply, with potential specific penalties under Section 899."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "special-mechanics",
+      "title": "2.5 Special Mechanics",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Section 899 includes unique operational rules, such as:"
+        },
+        {
+          "type": "nested_list",
+          "items": [
+            {
+              "text": "<strong>BEAT Modifications (&sect;899(a)(2) - hypothetical):</strong>",
+              "sub_items": [
+                "Applicability test override (certain foreign group payments treated as base erosion payments).",
+                "Potential substitution of a higher BEAT rate (e.g., 12.5% or more) for affected payments.",
+                "Possible elimination of the Qualified Business Asset Investment (QBAI) return and other exceptions for these payments."
+              ]
+            },
+            {
+              "text": "<strong>Applicable Percentage Points</strong>",
+              "sub_content": [
+                {
+                  "type": "paragraph",
+                  "text": "Section 899 imposes a gradually increasing surcharge on U.S. taxes paid by applicable persons. The surcharge starts at +5 percentage points in the first year after a country's applicable date and increases by +5 percentage points on each annual anniversary, up to a maximum of +20 percentage points."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The surcharge is calculated based on the number of full years that have elapsed since the applicable date. For fiscal years that span a rate change, weighted-average rules apply."
+                },
+                {
+                  "type": "chart",
+                  "chart_id": "surchargeRampUpChart",
+                  "title": "Surcharge Ramp-Up Over Time",
+                  "description": "The following chart illustrates how the surcharge increases over time:",
+                  "chart_type": "bar",
+                  "data": {
+                    "labels": ["Year 0", "Year 1", "Year 2", "Year 3", "Year 4+"],
+                    "datasets": [{
+                      "label": "Cumulative Surcharge (%)",
+                      "data": [0, 5, 10, 15, 20],
+                      "backgroundColor": [
+                        "rgba(201, 203, 207, 0.2)",
+                        "rgba(54, 162, 235, 0.2)",
+                        "rgba(54, 162, 235, 0.2)",
+                        "rgba(54, 162, 235, 0.2)",
+                        "rgba(255, 99, 132, 0.2)"
+                      ],
+                      "borderColor": [
+                        "rgb(201, 203, 207)",
+                        "rgb(54, 162, 235)",
+                        "rgb(54, 162, 235)",
+                        "rgb(54, 162, 235)",
+                        "rgb(255, 99, 132)"
+                      ],
+                      "borderWidth": 1
+                    }]
+                  },
+                  "options": {
+                    "scales": {
+                      "y": {
+                        "beginAtZero": true,
+                        "max": 25,
+                        "title": {
+                          "display": true,
+                          "text": "Percentage Points"
+                        }
+                      }
+                    },
+                    "responsive": true,
+                    "maintainAspectRatio": false
+                  }
+                },
+                {
+                  "type": "paragraph",
+                  "text": "<strong>Example:</strong> If a country's applicable date is January 1, 2026, the surcharge would be applied as follows:"
+                },
+                {
+                  "type": "table",
+                  "headers": ["Period", "Surcharge"],
+                  "rows": [
+                    ["2026", "5% (Year 1)"],
+                    ["2027", "10% (Year 2)"],
+                    ["2028", "15% (Year 3)"],
+                    ["2029+", "20% (Capped at Year 4)"]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "<strong>Cap Rules:</strong> An absolute ceiling on the total tax rate (e.g., statutory rate + 20 pp)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "carveouts_exceptions",
+      "title": "2.6 Carve-Outs and Exceptions",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Section 899 includes a number of carve-outs and exceptions to ensure it targets only truly unfair foreign taxes and genuinely base-erosion deductions. Each exception is rooted in the statute to prevent overreach and allow normal business activities to continue unpenalized."
+        },
+        {
+          "type": "paragraph",
+          "text": "<strong>Publicly Held Corporations:</strong> Companies whose shares are regularly traded on a public exchange are excluded from the > 50 % ownership test used to trigger the enhanced BEAT rules. This avoids ensnaring widely held firms whose ownership is too dispersed to link directly to discriminatory countries. (§ 899(b)(1)(E))"
+        },
+        {
+          "type": "paragraph",
+          "text": "<strong>Inventory & Depreciable Property:</strong> The purchase price of inventory (goods for resale) and depreciable or amortizable property (long-lived assets like machinery or buildings) remain deductible for BEAT purposes and are not treated as \"base-erosion payments.\" In simple terms, buying stock for resale or investing in capital assets won’t automatically increase your BEAT liability. (§ 899(a)(2)(D))"
+        },
+        {
+          "type": "paragraph",
+          "text": "<strong>General Tax Exclusions:</strong> Not every foreign levy is considered \"unfair.\" Broad-based consumption taxes such as VAT or sales taxes, property taxes, estate and gift taxes, and ordinary income taxes on residents are explicitly excluded. Gross-basis withholding on compensation for services (a tax on total payment without deductions) is also carved out. (§ 899(c)(4)(A)–(I))"
+        },
+        {
+          "type": "paragraph",
+          "text": "<strong>Surcharge Cap:</strong> No surcharge can push any statutory U.S. rate more than 20 percentage points above its normal level. This absolute ceiling prevents runaway tax rates, even if a foreign country’s unfair tax persists. (§ 899(a)(4)(B))"
+        },
+        {
+          "type": "paragraph",
+          "text": "<strong>Transition Relief & Safe Harbors:</strong> Withholding agents who demonstrate \"best efforts\" to comply before January 1, 2027 face no penalties or interest. A 90-day grace period also applies when a country is newly listed, giving businesses time to update systems and processes. (§ 899(a)(5)(C)–(D))"
+        }
+      ]
+    },
+    {
+      "id": "decision-tools",
+      "title": "2.7 Decision Tools",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Interactive tools to aid understanding (placeholders for future implementation):"
+        },
+        {
+          "type": "tool_item",
+          "title": "\"Am I an Applicable Person?\" Flowchart:",
+          "description": "This flowchart helps determine if an entity might be considered an 'Applicable Person' under the hypothetical Section 899.",
+          "mermaid_code": "flowchart TD\n    %% 1. Foreign-entity gateway\n    A{\"Is the entity organized or resident<br>outside the United States?\"}\n    A -- \"No (U.S. entity)\" --> NA1[\"Not an Applicable Person<br>§ 899 does not apply.\"]\n    A -- \"Yes (foreign entity)\" --> B\n\n    %% 2. Entity-type sorting\n    B{\"Entity type?\"}\n        B -- \"Private foundation (foreign)\" --> AP2[\"Applicable Person<br>(§ 899(b)(1)(D))\"]\n    B -- \"Trust\" --> T\n    B -- \"Partnership / branch / other Treasury-identified\" --> AP3[\"Applicable Person<br>(§ 899(b)(1)(G))\"]\n    B -- \"Corporation\" --> C\n\n    %% Trust path\n    T{\"Are > 50 % of beneficial interests<br>held by DFC persons?\"}\n    T -- \"Yes\" --> AP4[\"Applicable Person<br>(§ 899(b)(1)(F))\"]\n    T -- \"No\" --> NA2[\"Not an Applicable Person\"]\n\n    %% 3. Residency test for corporations\n    C{\"Is the corporation tax-resident<br>in a listed DFC?\"}\n    C -- \"Yes\" --> C1\n    C -- \"No\" --> D\n\n    C1{\"Is it a U.S.–owned CFC<br>\"}\n    C1 -- \"Yes\" --> NA3[\"Not an Applicable Person<br>(U.S.–owned CFC carve-out)\"]\n    C1 -- \"No\" --> AP5[\"Applicable Person<br>(§ 899(b)(1)(C))\"]\n\n    %% 4. Ownership aggregation test\n    D{\"Do DFC residents own > 50%<br>(vote or value), directly or indirectly?\"}\n    D -- \"No\" --> NA4[\"Not an Applicable Person\"]\n    D -- \"Yes\" --> D1\n\n    D1{\"Is the corporation publicly held?\"}\n    D1 -- \"Yes\" --> NA5[\"Applicable Person<br>(public company partial carve-out)\"]\n    D1 -- \"No\" --> AP6[\"Applicable Person<br>(§ 899(b)(1)(E))\"]\n\n    %% Styling\n    classDef decision fill:#e6f2ff,stroke:#007bff,stroke-width:2px;\n    classDef positive fill:#d4edda,stroke:#155724,stroke-width:1px;\n    classDef negative fill:#fff3cd,stroke:#856404,stroke-width:1px;\n\n    class A,B,C,C1,D,D1,T decision;\n    class AP1,AP2,AP3,AP4,AP5,AP6 positive;\n    class NA1,NA2,NA3,NA4,NA5 negative;"
+        },
+        {
+          "type": "placeholder_item",
+          "text": "<strong>\"Is this an Unfair Foreign Tax?\" Checklist:</strong> (Interactive checklist) <div class=\"checklist-placeholder\">[Checklist: Unfair Foreign Tax Criteria]</div>"
+        },
+        {
+          "type": "placeholder_item",
+          "text": "<strong>Country Designation Timeline Selector:</strong> (Interactive timeline/selector) <div class=\"timeline-placeholder\">[Timeline: Country Designation Dates]</div>"
+        }
+      ]
+    },
+    {
+      "id": "conclusion",
+      "title": "2.8 Conclusion",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Section 899 represents a significant (hypothetical) shift in U.S. international tax policy, aiming to counteract unfair foreign tax practices. Its complexity requires careful analysis by affected taxpayers."
+        },
+        {
+          "type": "placeholder_item",
+          "text": "<strong>Country Designation Timeline Selector:</strong> (Interactive timeline/selector) <div class=\"timeline-placeholder\">[Timeline: Country Designation Dates]</div>"
+        }
+      ]
+    },
+    {
+      "id": "regulatory-guidance",
+      "title": "2.9 Regulatory Guidance & Future Changes",
+      "content": [
+        {
+          "type": "list",
+          "items": [
+            "<strong>Treasury's Role:</strong> Responsible for issuing a quarterly list of discriminatory foreign countries and providing guidance.",
+            "<strong>Congressional Notification:</strong> Treasury must notify Congress of designations.",
+            "<strong>Authority for Exceptions:</strong> Treasury may have authority to grant additional exceptions or issue anti-avoidance rules.",
+            "<strong>Interaction with Treaties and FTCs:</strong> Complex interactions with existing tax treaties and foreign tax credit mechanisms will require careful consideration and specific guidance."
+          ]
+        }
+      ]
+    }
+  ],
+  "disclaimer": "<strong>Disclaimer:</strong> This is a simplified overview for educational purposes. The actual application of Section 899, if it were real legislation, would be highly complex and fact-specific. Always consult with a qualified tax professional."
+}
