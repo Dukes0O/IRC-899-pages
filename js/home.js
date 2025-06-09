@@ -19,7 +19,7 @@ const HomePage = (() => {
                 </div>`;
         }
 
-        fetch('/data/home_content.json') // Using root-relative path
+        fetch('data/home_content.json') // Using root-relative path
             .then(response => {
                 console.log('Fetch response received for home_content.json:', response);
                 if (!response.ok) {
