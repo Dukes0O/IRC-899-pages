@@ -7,7 +7,7 @@ let glossaryDataPromise = null;
 async function getGlossaryData() {
     if (!glossaryDataPromise) {
         console.log('GLOSSARY-LINKS.JS: Fetching glossary data for the first time.');
-        glossaryDataPromise = fetch('../data/glossary.json')
+        glossaryDataPromise = fetch('data/glossary.json')
             .then(response => {
                 if (!response.ok) {
                     throw new Error(`Failed to load glossary data. Status: ${response.status}`);
@@ -131,7 +131,7 @@ document.addEventListener('DOMContentLoaded', function() {
  */
 async function fetchGlossaryData() { // Original fetchGlossaryData, now less used due to caching getGlossaryData
     try {
-        const response = await fetch('../data/glossary.json');
+        const response = await fetch('data/glossary.json');
         if (!response.ok) {
             throw new Error('Failed to load glossary data');
         }

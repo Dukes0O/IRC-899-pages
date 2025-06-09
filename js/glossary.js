@@ -2,7 +2,7 @@
 
 async function loadGlossaryData() {
     try {
-        const response = await fetch('../data/glossary.json');
+        const response = await fetch('data/glossary.json');
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
